@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+body {
+	background-color: #10233a;
+	color: #000;
+	font-family: "Ubuntu", sans-serif;
+}
+
+h1 {
+	color: #FF2ABC;
+	font-family: "Playfair Display", serif;
+}
+
+.food {
+	color: #fd0000;
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 500; /* ubuntu-medium */
+}
+
+.list {
+	color: #FFFF11;
+}

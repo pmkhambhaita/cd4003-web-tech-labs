@@ -1,0 +1,33 @@
+body {
+    background-image: url('bg.jpg');
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    color: #2c3e50;
+    text-align: Center;
+    background-color: transparent;
+}
+
+
+p {
+    font-size: 16px;
+    color: #b93535;
+    line-height: 1.6;
+}
+
+
+a:link {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #551a8b;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
